@@ -1,0 +1,45 @@
+[Adblock Plus 3.8.4]
+! Version:       0.0.1
+! Copyright:     User-defined rules [extension]
+! Last modified: 05 Mar 2023 15:06 UTC/GMT + 8
+! Author:        GatesGe201412@Gmail.com
+! Expires:       Unknown
+! List of filters for avoiding ads in Adblock Plus.
+
+! -----------------------General advert blocking filters----------------------- !
+juejin.im##.link
+juejin.im##.extension
+juejin.cn##.recommend-box
+gameapp.qq.com##.item-bd
+gameapp.qq.com##.tips-hd
+gameapp.qq.com##.tips-bd
+gameapp.qq.com##.recommend-list
+gameapp.qq.com##.mod-qg-tips-bar
+gameapp.qq.com##.app-logo-link.J_set_homepage
+gameapp.qq.com##.sidebar-items.J_slider_items
+csdnnews.blog.csdn.net###passportbox
+csdnnews.blog.csdn.net##.login-box
+blog.csdn.net##.toolbar-advert-default
+blog.csdn.net###div
+blog.csdn.net##.login-mark
+blog.csdn.net##.login-box
+blog.csdn.net###passportbox
+blog.csdn.net###csdn-redpack
+blog.csdn.net##.csdn-redpack-container
+blog.csdn.net##.passport-login-mark
+blog.csdn.net##.passport-login-container
+||static.runoob.com/images/re/kkb20190819/Python3.png
+||pic.downcc.com/upload/img/360safe.jpg
+bilibili.com##.adblock-tips
+expressjs.com.cn###right-sider
+wenku.baidu.com##.vip-privilege.vip-privilege-card-wrap.new-privilege-wrap
+wenku.baidu.com##.try-end-fold-page.has-cashier-card
+zhuanlan.zhihu.com##.css-1izy64v
+doc88.com##.iamge1
+doc88.com##.dk-side
+mongoosejs.net##.youdonknow
+mongoosejs.net##.lessonlist
+mongoosejs.net##.recommand
+juejin.cn##.sidebar-block.banner-block
+juejin.cn##.advertisement
+juejin.cn##.sticky-banner
