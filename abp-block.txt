@@ -1,9 +1,10 @@
-[Adblock Plus 3.8.4]
-! Version:       0.0.1
+[Adblock Plus]
+! Version:       0.0.2
 ! Copyright:     User-defined rules [extension]
 ! Last modified: 05 Mar 2023 15:06 UTC/GMT + 8
 ! Author:        GatesGe201412@Gmail.com
 ! Expires:       Unknown
+! Title:         Custom Filter
 ! List of filters for avoiding ads in Adblock Plus.
 
 ! -----------------------General advert blocking filters----------------------- !
