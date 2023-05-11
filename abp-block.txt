@@ -1,7 +1,7 @@
 [Adblock Plus]
-! Version:       0.0.2
+! Version:       0.0.3
 ! Copyright:     User-defined rules [extension]
-! Last modified: 05 Mar 2023 15:06 UTC/GMT + 8
+! Last modified: 11 May 2023 16:36 UTC/GMT + 8
 ! Author:        GatesGe201412@Gmail.com
 ! Expires:       Unknown
 ! Title:         Custom Filter
@@ -44,3 +44,4 @@ mongoosejs.net##.recommand
 juejin.cn##.sidebar-block.banner-block
 juejin.cn##.advertisement
 juejin.cn##.sticky-banner
+cnboling.cn##.footer_kf.keifu_box
