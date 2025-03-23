@@ -1,57 +1,58 @@
 [Adblock Plus]
 ! Title:         Custom Filter
-! Version:       0.0.6
+! Version:       0.0.7
 ! Author:        GatesGe201412@Gmail.com
 ! Copyright:     User-defined rules [extension]
-! Last modified: 16 Jun 2023 11:31 UTC/GMT + 8
+! Last modified: 2025.03.23 19:05 UTC/GMT + 8
 ! Expires:       Unknown
 ! List of filters for avoiding ads in Adblock Plus.
 
 ! -----------------------General advert blocking filters----------------------- !
 1688.com##.section-bottom.active
-blog.csdn.net##.toolbar-advert-default
-blog.csdn.net###div
-blog.csdn.net##.login-mark
-blog.csdn.net##.login-box
-blog.csdn.net###passportbox
-blog.csdn.net###csdn-redpack
-blog.csdn.net##.csdn-redpack-container
-blog.csdn.net##.passport-login-mark
-blog.csdn.net##.passport-login-container
-blog.csdn.net##div.programmer1Box
 bilibili.com##.adblock-tips
+blog.csdn.net###csdn-redpack
+blog.csdn.net###div
+blog.csdn.net###passportbox
 blog.csdn.net##.box-shadow.mb8
-csdnnews.blog.csdn.net###passportbox
-csdnnews.blog.csdn.net##.login-box
+blog.csdn.net##.csdn-redpack-container
+blog.csdn.net##.login-box
+blog.csdn.net##.login-mark
+blog.csdn.net##.passport-login-container
+blog.csdn.net##.passport-login-mark
+blog.csdn.net##.toolbar-advert-default
+blog.csdn.net##div.programmer1Box
 cnboling.cn##.footer_kf.keifu_box
 csdn.net##.www-home-content
-doc88.com##.iamge1
-doc88.com##.dk-side
+csdnnews.blog.csdn.net###passportbox
+csdnnews.blog.csdn.net##.login-box
 ditu.amap.com##.app-download-panel
+doc88.com##.dk-side
+doc88.com##.iamge1
 expressjs.com.cn###right-sider
-gameapp.qq.com##.item-bd
-gameapp.qq.com##.tips-hd
-gameapp.qq.com##.tips-bd
-gameapp.qq.com##.recommend-list
-gameapp.qq.com##.mod-qg-tips-bar
+game.qzone.qq.com###J_inner_tips
 gameapp.qq.com##.app-logo-link.J_set_homepage
+gameapp.qq.com##.item-bd
+gameapp.qq.com##.mod-qg-tips-bar
+gameapp.qq.com##.recommend-list
 gameapp.qq.com##.sidebar-items.J_slider_items
-juejin.im##.link
-juejin.im##.extension
+gameapp.qq.com##.tips-bd
+gameapp.qq.com##.tips-hd
+juejin.cn##.advertisement
 juejin.cn##.recommend-box
 juejin.cn##.sidebar-block.banner-block
-juejin.cn##.advertisement
 juejin.cn##.sticky-banner
-mongoosejs.net##.youdonknow
+juejin.im##.extension
+juejin.im##.link
+map.baidu.com###leadDownloadCard
+map.baidu.com###message-panel.message-panel-open
+map.baidu.com##.leadDownloadCard
 mongoosejs.net##.lessonlist
 mongoosejs.net##.recommand
-map.baidu.com###message-panel.message-panel-open
-map.baidu.com###leadDownloadCard
-map.baidu.com##.leadDownloadCard
+mongoosejs.net##.youdonknow
 pengqi.club##.adsbygoogle
 qcc.com##.footer-banner.vip.open
-wenku.baidu.com##.vip-privilege.vip-privilege-card-wrap.new-privilege-wrap
 wenku.baidu.com##.try-end-fold-page.has-cashier-card
+wenku.baidu.com##.vip-privilege.vip-privilege-card-wrap.new-privilege-wrap
 zhuanlan.zhihu.com##.css-1izy64v
-||static.runoob.com/images/re/kkb20190819/Python3.png
 ||pic.downcc.com/upload/img/360safe.jpg
+||static.runoob.com/images/re/kkb20190819/Python3.png
